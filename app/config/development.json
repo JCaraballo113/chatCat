@@ -1,0 +1,22 @@
+{
+    "host": "localURL",
+    "dbURI": "Your DB Connection URI here",
+    "sessionSecret": "YOUR SESSION SECRET WORD",
+    "fb": {
+        "clientID": "YOUR CLIENT ID",
+        "clientSecret": "YOUR CLIENT SECRET",
+        "callbackURL": "YOUR CALLBACK URL",
+        "profileFields": ["id", "displayName", "photos"]
+    },
+    "twitter": {
+        "consumerKey": "YOUR CONSUMER KEY",
+        "consumerSecret": "YOUR CONSUMER SECRET",
+        "callbackURL": "YOUR CALLBACK URL",
+        "profileFields": ["id", "displayName", "photos"]
+    },
+    "redis": {
+        "host": "LOCAL IP FOR REDIS",
+        "port": "YOUR REDIS PORT AS A INT",
+        "password": "YOUR PASSWORD IF ANY"
+    }
+}

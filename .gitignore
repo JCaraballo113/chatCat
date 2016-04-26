@@ -2,7 +2,6 @@
 node_modules
 
 
-app/config/development.json
 
 # Typings for my sanity and VS CODE Files
 typings
