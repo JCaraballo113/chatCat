@@ -1,0 +1,10 @@
+#Node dependencies
+node_modules
+
+# dev.json
+app/config/development.json
+
+# Typings for my sanity and VS CODE Files
+typings
+.vscode
+jsconfig.json
